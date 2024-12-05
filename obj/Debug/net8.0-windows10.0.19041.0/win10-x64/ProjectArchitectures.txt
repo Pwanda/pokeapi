@@ -1,0 +1,1 @@
+C:\Users\petar\RiderProjects\pokeapi2\pokeapi2.csproj;x64
