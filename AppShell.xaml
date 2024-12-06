@@ -8,7 +8,7 @@
     Title="pokeapi2">
 
     <ShellContent
-        Title="Home"
+        Title="Pokedex Petar"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 

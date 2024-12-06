@@ -299,3 +299,4 @@ C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-maccatalyst\maccatalyst-x
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\pokeapi2.pdb
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\pokeapi2.genruntimeconfig.cache
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\ref\pokeapi2.dll
+C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-maccatalyst\maccatalyst-x64\pokeapi2.sourcelink.json

@@ -311,3 +311,4 @@ C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-ios\iossimulator-x64\refi
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-ios\iossimulator-x64\pokeapi2.pdb
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-ios\iossimulator-x64\pokeapi2.genruntimeconfig.cache
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-ios\iossimulator-x64\ref\pokeapi2.dll
+C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-ios\iossimulator-x64\pokeapi2.sourcelink.json

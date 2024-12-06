@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\petar\RiderProjects\pokeapi2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-04T20:07:09.147</Modified>
+      <Modified>2024-12-05T13:01:17.692</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\petar\RiderProjects\pokeapi2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pokeapi2.dll">
       <PackagePath>pokeapi2.dll</PackagePath>
-      <Modified>2024-12-04T20:07:08.602</Modified>
+      <Modified>2024-12-05T13:01:17.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>pokeapi2.exe</PackagePath>
-      <Modified>2024-12-04T20:07:08.607</Modified>
+      <Modified>2024-12-05T13:01:17.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\petar\RiderProjects\pokeapi2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

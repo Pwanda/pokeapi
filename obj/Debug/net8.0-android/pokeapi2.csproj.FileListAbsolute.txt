@@ -1046,3 +1046,4 @@ C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-android\stamp\_GenerateJa
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\petar\RiderProjects\pokeapi2\obj\Debug\net8.0-android\pokeapi2.sourcelink.json
