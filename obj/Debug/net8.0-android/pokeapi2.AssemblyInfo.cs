@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pokeapi2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+960c99638d65cc3b7cdb30b6ca23832b2091c3e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+73359e4ecd0491ac4a1b58e6ee6203e16a408f1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("pokeapi2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pokeapi2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
